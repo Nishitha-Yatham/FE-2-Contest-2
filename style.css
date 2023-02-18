@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    color:white;
+}
+input{
+    height:30px;
+    width:180px;
+    border:1px solid white;
+}
+#btn{
+    background-color: White;
+    color:black;
+    height:40px;
+    width:280px;
+}
+table {
+    position: relative;
+    top:50px;
+    border: 1px solid black;
+
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th,
+  td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid white;
+  }
+  th {
+    background-color: black;
+  }
